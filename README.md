@@ -67,7 +67,8 @@ The dataset used in this project was sourced from **Kaggle** and includes inform
 
 ---
 
-- The dataset was sourced from [Kaggle](https://www.kaggle.com/).  
+## Acknowledgments
+- The dataset was sourced from Kaggle.
 - Thanks to the open-source community for providing the tools and inspiration for this project.
 
 ---
